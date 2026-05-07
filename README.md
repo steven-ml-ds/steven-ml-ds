@@ -42,7 +42,3 @@
 | [Australia Tourism Dashboard](https://github.com/steven-ml-ds/australia-tourism-dashboard) | Interactive R Shiny dashboard with Leaflet map and Plotly charts | R, Shiny, Leaflet |
 
 ---
-
-## 📊 GitHub Stats
-
-![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=steven-ml-ds&show_icons=true&theme=default&hide_border=true)
