@@ -1,8 +1,8 @@
 # Hi, I'm Hong-Yun (Steven) Chang 👋
 
 🎓 Master of Data Science @ Monash University  
-🔍 Seeking Data Scientist / ML Engineer roles in Australia  
-📍 Melbourne, VIC  
+🔍 Seeking Data Scientist / ML Engineer roles 
+📍 Melbourne, VIC / Taiwan 
 📬 ste057770@gmail.com
 
 ---
