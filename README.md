@@ -34,6 +34,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [Customer Churn Prediction](https://github.com/steven-ml-ds/customer_churn_prediction) | Business-oriented churn ML case study with explainability, API serving, retention ROI, calibration review and CLV prioritisation | scikit-learn, XGBoost, SHAP, FastAPI |
 | [NLP Intent & Slot Filling](https://github.com/steven-ml-ds/nlp-intent-slot-filling) | Airline dialogue understanding with BERT, BiLSTM-CRF and CRF | PyTorch, BERT, CRF |
 | [Building Energy Spark Pipeline](https://github.com/steven-ml-ds/building-energy-spark-pipeline) | End-to-end batch ML + real-time streaming pipeline | PySpark, Kafka, Docker |
 | [Stock Market Classification](https://github.com/steven-ml-ds/stock-market-classification) | Predicting stock outperformance using Random Forest | scikit-learn, pandas |
