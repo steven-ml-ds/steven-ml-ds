@@ -63,8 +63,3 @@ Each repo opens with an **Impact / Decision** section — the question, the deci
 | [**australia-tourism-dashboard**](https://github.com/steven-ml-ds/australia-tourism-dashboard) | Interactive tourism-trends dashboard with Leaflet maps and Plotly charts. | R, Shiny, Leaflet |
 
 ---
-
-## 📊 GitHub
-
-![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=steven-ml-ds&show_icons=true&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-ml-ds&layout=compact&hide_border=true)
