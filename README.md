@@ -7,19 +7,6 @@ honest measurement, leakage-free evaluation, and models that survive contact wit
 
 ---
 
-## What I care about (and what my repos demonstrate)
-
-- **No leakage, by test.** Point-in-time feature stores and unit-tested label alignment — not
-  backtests that quietly peek at the future. *(see [stock-etl-pipeline](https://github.com/steven-ml-ds/stock-etl-pipeline))*
-- **No training/serving skew, by construction.** Batch and streaming share one feature module
-  and one persisted pipeline, with a skew regression test in CI. *(see [building-energy-spark-pipeline](https://github.com/steven-ml-ds/building-energy-spark-pipeline))*
-- **Scores become decisions.** Calibration, cost-sensitive thresholds, and value-weighted
-  prioritisation — so a model's output maps to an action and an ROI. *(see [customer_churn_prediction](https://github.com/steven-ml-ds/customer_churn_prediction))*
-- **Honest results.** I report when the simple baseline wins and when going neural doesn't pay —
-  measurement I'd trust enough to act on.
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**  
